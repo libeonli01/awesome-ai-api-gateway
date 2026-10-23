@@ -121,6 +121,7 @@ AI API 身份网关，反代过程中规范化设备指纹与遥测数据。关�
 | 服务 | 特点 |
 |---|---|
 | [**Leonis AI**](https://ai.svtun.cn) | Claude / OpenAI / Gemini / Grok 四家聚合共 [114 个模型](https://leonis-ai.github.io/models.html)，双协议兼容，原生支持 Claude Code 与 Codex CLI，国内直连，Prompt 缓存完整支持，用量明细可查 |
+| [**Uta API**](https://api.liwenjun.shop) | 面向开发者的 OpenAI-compatible API 网关与管理服务；提供公开产品入口、账户/API 使用界面和健康检查，当前正式版本为 `V0.1.4.1`。模型目录、可用性与实时费率以站内页面为准 |
 | [OpenRouter](https://openrouter.ai) | 模型覆盖面最广，统一 OpenAI 协议，按量计费 |
 | [Cloudflare AI Gateway](https://developers.cloudflare.com/ai-gateway/) | 免费的网关层，提供缓存、限流、日志，但不提供模型本身 |
 
